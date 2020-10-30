@@ -1,4 +1,4 @@
-Assignment 1
+Assignment 2
 
 s331022 Frida Johansen
 s326297 Sigrid Molde
